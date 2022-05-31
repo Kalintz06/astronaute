@@ -1,0 +1,52 @@
+.carre_violet1 {
+    width: 80px;
+    height: 80px;
+    background-color: purple;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
+.carre_violet2 {
+    width: 80px;
+    height: 80px;
+    background-color: purple;
+    position: absolute;
+    top: 0%;
+    right: 0%;
+  }  
+.carre_violet3 {
+    width: 80px;
+    height: 80px;
+    background-color: purple;
+    position: absolute;
+    bottom: 0%;
+    left: 0%;
+    }
+.carre_violet4 {
+     width: 80px;
+    height: 80px;
+    background-color: purple;
+    position: absolute;
+    bottom: 0%;
+    right: 0%;
+}
+.carre_violet5 {
+    width: 80px;
+    height: 80px;
+    background-color: purple;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    }
+.rectangle_bleu1 {
+    width: 98%;
+    height: 100px;
+    background-color: blue;
+    top: 2%;
+    left: 2%;
+    }
+.rectangle_bleu2 {
+     width: 97%;
+    height: 100px;
+    background-color: blue;
+    top: 45%;

@@ -1,0 +1,29 @@
+.header {
+    border: 2px solid #1771cf;
+    padding: 10, 10, 10, 10;
+    display: flex;
+    align-items: center;
+  }
+  
+  .title {
+    padding-top: 2%;
+    padding-left: 2%;
+  }
+  .picture {
+    width: 120px;
+    height: 120px;
+  }
+  
+  .blockContainer {
+    display: flex;
+  }
+  
+  .astronauteContainer {
+    border: 2px solid #1771cf;
+    margin-right: 2%;
+    padding: 4px 4px 4px 4px;
+  }
+  
+  .nameContainer p {
+    display: inline-block;
+  }
